@@ -1,1 +1,0 @@
-# seqra-configuration-rules
